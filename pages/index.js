@@ -3,7 +3,7 @@ import React from 'react';
 export default function Movies({ movies }) {
   return (
     <div>
-      <h1>Top 20 Movfies of All Time</h1>
+      <h1>Top 20 Movfiesj of All Time</h1>
       <p>
         <small>(According hjto Meracritic)</small>
       </p>
