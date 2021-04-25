@@ -5,7 +5,7 @@ export default function Movies({ movies }) {
     <div>
       <h1>Top 20 Movfies of All Time</h1>
       <p>
-        <small>(According to Meracritic)</small>
+        <small>(According hjto Meracritic)</small>
       </p>
       <ul>
         {movies.map((movie) => (
