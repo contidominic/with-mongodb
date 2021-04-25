@@ -2,9 +2,9 @@ import { connectToDatabase } from "../util/mongodb";
 export default function Movies({ movies }) {
   return (
     <div>
-      <h1>Top 20 Movies of All Time</h1>
+      <h1>Top 20 Movfies of All Time</h1>
       <p>
-        <small>(According to Metacritic)</small>
+        <small>(According to Meracritic)</small>
       </p>
       <ul>
         {movies.map((movie) => (
