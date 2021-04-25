@@ -1,4 +1,5 @@
 import { connectToDatabase } from "../util/mongodb";
+import React from 'react';
 export default function Movies({ movies }) {
   return (
     <div>
